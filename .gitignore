@@ -21,3 +21,5 @@ src/vendor
 .rvmrc
 
 .byebug_history
+
+docker-compose.override.yml
