@@ -15,8 +15,6 @@ fleet servers themselves) is what motivated that choice.
 
 ## API
 
-### Authentication
-
 #### `GET /resources`
 
 Get information about all known server resources
